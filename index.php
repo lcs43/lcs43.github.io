@@ -1,2 +1,3 @@
 <?  
-header("Location: wP/home.php");
+phpinfo();
+?>
