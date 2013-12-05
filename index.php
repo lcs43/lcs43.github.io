@@ -1,3 +1,2 @@
 <?  
-echo "hello";
-?>
+header("Location: wp/home.php");
