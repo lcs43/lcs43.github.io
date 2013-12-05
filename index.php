@@ -1,2 +1,2 @@
 <?  
-header("Location: wp/home.php");
+header("Location: wP/home.php");
