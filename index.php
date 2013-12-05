@@ -1,2 +1,2 @@
 <?  
-header("Location: home.html");
+header("Location: index.html");
