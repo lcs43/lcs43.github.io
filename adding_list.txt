@@ -1,0 +1,15 @@
+Adding items to webpage
+
+mm/dd/yyyy	adding					url
+11/04/2005	teaching material for aen475		~/teach_material/aen475/
+		modifying aen475.html
+            		family page 
+
+24/02/2006  lectures for aen459 amd ce382
+		converter software			~/software/convert.exe
+		update resume
+
+20/10/2009 new papers
+
+03/17/2011 mod : international activities
+		add Afghanistan projects
